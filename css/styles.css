@@ -13,7 +13,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-image: url("../images/catbackground.jpg");
   margin: 0 auto;
   font-family: helvetica, arial, sans-serif; }
 
@@ -102,7 +102,7 @@ button {
 
 .thumb-bar img {
   display: block;
-  width: 118px;
+  width: 118.40px;
   height: 80px;
   float: left;
   cursor: pointer; }
