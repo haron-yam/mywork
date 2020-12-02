@@ -99,6 +99,7 @@ body {
   padding-bottom: 60px; }
 
 .white-header {
+  color: white;
   font-size: 20px;
   padding-bottom: 20px; }
 
@@ -111,3 +112,26 @@ body {
   max-width: 40%;
   height: auto;
   padding-bottom: 60px; }
+
+.menu1 {
+  max-width: 80%;
+  height: auto;
+  padding-bottom: 60px; }
+
+.menu2 {
+  max-width: 70%;
+  height: auto;
+  padding-bottom: 60px; }
+
+.logo1 {
+  max-width: 70%;
+  height: auto;
+  padding-top: 60px; }
+
+.logo2 {
+  max-width: 70%;
+  height: auto;
+  padding-bottom: 60px; }
+
+.overall {
+  padding-bottom: 200px; }
