@@ -71,7 +71,7 @@ body {
   font-weight: bold; }
 
 .topnav a.nonactive {
-  color: #D1D1D1; }
+  color: white; }
 
 .topnav a.active {
   border-bottom: 3px solid #F2664D;
